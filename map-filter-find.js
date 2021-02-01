@@ -5,6 +5,7 @@ function squrare(element) {
     return element * element;
 }
 
+// show element
 numbers.map(function (element) {
     console.log(element);
 })
